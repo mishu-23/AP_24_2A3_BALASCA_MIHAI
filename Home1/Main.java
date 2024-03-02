@@ -1,3 +1,4 @@
+//Balasca Mihai 2A3
 public class Main {
     public static int kreductibil(int x) {
         if( x < 0) {
