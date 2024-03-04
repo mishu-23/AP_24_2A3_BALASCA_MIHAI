@@ -1,0 +1,6 @@
+- am creat 2 functii, int kreductibil(int x); care imi returneaza, recursiv, cifra k pentru un numar x si void verifInterval(int a, int b, int k);
+  care imi pune intr-un String numerele din intervalul [a, b] kreductibile
+
+- pentru timpul de executie am luat un moment de start cu System.nanoTime(); si, similar, un timp final. 
+
+- in main am preluat argumentele si le-am convertit cu parseInt din Stringuri in intregi pentru a putea rula din terminal aplicatia
