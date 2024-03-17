@@ -1,0 +1,15 @@
+---am scris tema ini continuarea laboratorului
+
+--pentru Lab e pretty straight forward, am creat clasele si interfetele.
+--pentru Homework, in Visitable am creat metoda getTimeTable() si metoda default getOpeningHour() (ca sa o pot implementa direct in interfata),
+  unde daca atractia respectiva are program in ziua X, returneaza ora de deschidere, altfel returneaza 00:00
+
+  am implementat de asemenea, generic, perechea de ore de deschidere respectiv inchidere
+
+  in Trip am creat metoda getVisAndFreeInOrd(LocalDate date) care creeaza o lista rightAttractions, parcurge toate atractiile din trip,
+  iar daca atractiile sunt vizitabile si gratis, le adauga in rightAttractions. La final sorteaza lista dupa ora de deschidere
+  folosind o functie lambda si afiseaza lista ordonata
+
+  in TravelPlan am implementat clasa care imi arata pentru ziua specificata, ce atractii urmeaza sa vizitez
+  
+  
