@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8²¶„àä1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(µŠ‘™8Á¶„àä1
+G	java:S106!"+Replace this use of System.out by a logger.(í‚’¡8Â¶„àä1
+\
+java:S1128":Remove this unused import 'javafx.scene.media.AudioTrack'.(ååËœùÿÿÿÿ8²€…àä1
+T
+java:S1128"2Remove this unused import 'javax.smartcardio.ATR'.(÷¶‚úùÿÿÿÿ8²€…àä1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8²€…àä1
