@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿æÁúÿÿÿÿ8È¾Õüæ1
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¶—™8š€×üæ1
+d
+java:S1128"BRemove this unused import 'sun.security.krb5.internal.crypto.Des'.(¿æÁúÿÿÿÿ8 €×üæ1

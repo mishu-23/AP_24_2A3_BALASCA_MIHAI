@@ -1,0 +1,29 @@
+
+7
+java:S1220""Move this file to a named package.8ù‡şæ1
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Æ¨Òò8ú‡şæ1
+g
+java:S1612"EReplace this lambda with method reference 'Driver.class::isInstance'.(‚åÌ”ûÿÿÿÿ8Æ‚‡şæ1
+a
+java:S1612"?Replace this lambda with method reference 'Driver.class::cast'.(¼¼½êùÿÿÿÿ8Ç‚‡şæ1
+j
+java:S1612"HReplace this lambda with method reference 'Passenger.class::isInstance'.(…íõãúÿÿÿÿ8Ê‚‡şæ1
+d
+java:S1612 "BReplace this lambda with method reference 'Passenger.class::cast'.(ß×¶»úÿÿÿÿ8Ë‚‡şæ1
+9
+java:S1116!"Remove this empty statement.(£ã¦œ8Ì‚‡şæ1
+:
+java:S21190"Save and re-use this "Random".(¼İÅf8Ó‚‡şæ1
+L	java:S106C"+Replace this use of System.out by a logger.(ó‡óøÿÿÿÿ8Ø‚‡şæ1
+L	java:S106D"+Replace this use of System.out by a logger.(ûá‡·úÿÿÿÿ8Ù‚‡şæ1
+L	java:S106J"+Replace this use of System.out by a logger.(“Úßÿÿÿÿÿ8Û‚‡şæ1
+L	java:S106K"+Replace this use of System.out by a logger.(©å¡ùÿÿÿÿ8Ü‚‡şæ1
+L	java:S106O"+Replace this use of System.out by a logger.(–âŠ™ùÿÿÿÿ8¨ú‡şæ1
+F	java:S106P"+Replace this use of System.out by a logger.(´î8Õ±Šşæ1
+T
+java:S1128"7Remove this unused import 'sun.awt.image.ImageWatched'.(Æ¨Òò8Õ±Šşæ1
+X
+java:S1128";Remove this unused import 'sun.reflect.generics.tree.Tree'.(ºğ“´8Õ±Šşæ1
+d
+java:S1128"BRemove this unused import 'sun.security.krb5.internal.crypto.Des'.(¿æÁúÿÿÿÿ8Õ±Šşæ1
