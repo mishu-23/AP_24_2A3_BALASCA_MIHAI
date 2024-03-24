@@ -1,0 +1,17 @@
+pentru lab am creat clasele: Person, Driver, Passenger si Carpool
+
+am creat o lista group cu persoane random, pe care am filtrat-o apoi intr-un List drivers si un Set passengers
+
+lista am pus-o apoi intr-un LinkedList si am ordonat-o dupa ani, iar setul intr-un TreeSet si l-am sortat dupa nume
+
+-------------------------------------------------------------------------------------------------------------------
+
+pentru homework am creat clasa Problema si clasa Destination(desi Destination nu prea era necesara aici, dar n-am mai modificat)
+
+am folosit creat pentru driveri o lista de destinatii si pentru fiecare pasager am atribuit o destinatie
+
+folosind java-faker am generat o lista de 10 destinatii cu care am lucrat. fiecare sofer a primit apoi o lista de 5 destinatii random
+iar fiecare pasager o singura destinatie random din aceeasi lista. tot cu java-fake am asignat si nume persoanelor
+
+apoi am rezolvat problema folosind un algoritm greedy care asigna fiecarui sofer un posibil pasager, stergand din setul de pasageri
+pasagerii asignati cu succes
