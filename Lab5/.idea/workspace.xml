@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47819aa7-ce49-4478-84a2-d7a8bc60a3cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3308c9e8dd364c8ee1514029c1ad2dcf1ec7352d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/574fbd7ab5889add9e338655e0e805bd7e6cb87a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b39c1e976a6f55ae487b6ebda52ef5baef0d22c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b84f07cf231cedd636ac8968be056e5c06f3d0f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d41aa224afed0d7c8c47529b0be74b191cffd1eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/3/3308c9e8dd364c8ee1514029c1ad2dcf1ec7352d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/574fbd7ab5889add9e338655e0e805bd7e6cb87a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b39c1e976a6f55ae487b6ebda52ef5baef0d22c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/8/b84f07cf231cedd636ac8968be056e5c06f3d0f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d41aa224afed0d7c8c47529b0be74b191cffd1eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Home1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/Depot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/Main$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Attraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Church.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Concert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Payable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Statue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/TravelPlan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Visitable$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/Visitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/lab1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/storage/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/issuestore/0/a/0a798c5a4fd163bf141951906dcf87d42563618e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/issuestore/a/b/abe6c6191bb7757c850d143150dfb09fd0ce52cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/issuestore/f/8/f8d0db28012482745c7a275eb8691d9ab3f0db82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/securityhotspotstore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/securityhotspotstore/0/a/0a798c5a4fd163bf141951906dcf87d42563618e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/securityhotspotstore/a/b/abe6c6191bb7757c850d143150dfb09fd0ce52cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/securityhotspotstore/f/8/f8d0db28012482745c7a275eb8691d9ab3f0db82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2eFAWbS7tAMIB58RsRvILUQIwoI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/storage/java/Lab5/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\storage\java\Lab5\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\storage\java\Lab5" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47819aa7-ce49-4478-84a2-d7a8bc60a3cf" name="Changes" comment="" />
+      <created>1711489988183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711489988183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
