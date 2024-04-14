@@ -1,0 +1,9 @@
+
+š	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ý›þ8–¡«´é1J$50deaedd-94ff-4402-bcfe-c9743376df6b
+i
+java:S1125"'Remove the unnecessary boolean literal.(Ý›þ8ÖÎ©´é1J$f4fd0dac-ebf2-4682-bed2-d392c82d7d1f
+r	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8ÙÎ©´é1J$65fd5e7c-66a3-4549-8509-8ae27673c050
+m	java:S106!"+Replace this use of System.out by a logger.(ý¶ùÊ8ÞÎ©´é1J$8dc2fc4f-8cee-40b2-bfd2-1804950a7636
+m	java:S106#"+Replace this use of System.out by a logger.(¶ÆðÑ8ßÎ©´é1J$85728337-95d6-4d72-8cf5-21077e31205e
+f
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8ãÎ©´é1J$62f0047b-cd78-43a3-b882-9fdd22cb4445

@@ -1,0 +1,17 @@
+
+y
+java:S1854
+"6Remove this useless assignment to local variable "b2".(‘¾‰8ÌôÃÆé1J$7747ffa1-db44-4263-9fe9-48d2ff34b44e
+~
+java:S1854	"6Remove this useless assignment to local variable "b1".(¥ô‡İüÿÿÿÿ8ÌôÃÆé1J$055cbb85-fe37-4dd8-8597-006748ec25cd
+{
+java:S1854"8Remove this useless assignment to local variable "main".(¶Íğ”8ÒõÂÆé1J$08e71e51-25dc-404c-b59d-b25f48d41d5e
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8‹Ğ–Åé1J$078243a7-a43a-4555-ac89-8a673623f608
+l
+java:S1481")Remove this unused "main" local variable.(¶Íğ”8ÖõÂÆé1J$bc7f3be8-2545-43d7-b819-c1d2a89d860b
+o
+java:S1481	"'Remove this unused "b1" local variable.(¥ô‡İüÿÿÿÿ8ĞôÃÆé1J$c9f95884-bb64-4b43-871c-3c0b7e78f94a
+j
+java:S1481
+"'Remove this unused "b2" local variable.(‘¾‰8ÑôÃÆé1J$d2ba80c7-8ddc-46dc-b6b1-49dace81ba9e
