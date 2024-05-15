@@ -1,0 +1,11 @@
+
+–
+java:S1192-"SDefine a constant instead of duplicating this literal "Found book by ID: " 3 times.(üÀ¸Î8¾ÊâÙ÷1J$2486aa2c-2206-40ee-bb18-25ac7c4127c6
+V
+java:S1220""Move this file to a named package.J$263b719a-debc-4b48-8c94-081922c542ac
+f	java:S106-"+Replace this use of System.out by a logger.(üÀ¸ÎJ$1dc888c2-4094-4089-9ca2-98e1cf27e32e
+e	java:S1062"+Replace this use of System.out by a logger.(…ËÉ	J$f8ebfb18-9d91-4eb7-a4d1-6bb0302922c1
+f	java:S1069"+Replace this use of System.out by a logger.(üÀ¸ÎJ$af154498-4012-4828-b028-f8371c1a6881
+m	java:S106>"+Replace this use of System.out by a logger.(ÿ½›ç8ÊÈÚÖ÷1J$221aa29e-09f2-4429-891b-ec7c1116d917
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8çĞòØ÷1J$56270daa-2d1d-4d37-96c7-d834461a5904
