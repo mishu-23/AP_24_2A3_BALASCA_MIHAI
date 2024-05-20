@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class GameClient {
+public class GameClient1 {
     private Socket clientSocket;
     private PrintWriter out;
     private BufferedReader in;
@@ -42,7 +42,7 @@ public class GameClient {
     }
 
     public static void main(String[] args) {
-        GameClient client = new GameClient();
+        GameClient1 client = new GameClient1();
         client.startConnection("127.0.0.1", 8002);
 
         BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));

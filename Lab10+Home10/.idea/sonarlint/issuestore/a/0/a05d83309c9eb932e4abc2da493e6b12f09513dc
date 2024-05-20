@@ -1,5 +1,8 @@
 
-_
-java:S2583"DChange this condition so that it does not always evaluate to "false"(ïŸüøÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Í–§¿ûÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ËØÁã
+Œ
+java:S2583$"DChange this condition so that it does not always evaluate to "false"(ïŸüøÿÿÿÿ8ÅíÂ—ù1J$6fe93aeb-425a-4f45-a455-809305c8a281
+r	java:S106"+Replace this use of System.out by a logger.(Í–§¿ûÿÿÿÿ8†«»—ù1J$80dcd00e-2901-4258-8dc1-576a443dd1a1
+m	java:S106%"+Replace this use of System.out by a logger.(ËØÁã8‹«»—ù1J$23e32443-2c15-4c56-9eea-73d2b811f8d9
+r	java:S106>"+Replace this use of System.out by a logger.(¤ëÒ÷ûÿÿÿÿ8’«»—ù1J$4ef6ae35-f663-4886-b0d6-47ec86ce8f13
+u
+java:S1874>"-Remove this use of "getId"; it is deprecated.(¤ëÒ÷ûÿÿÿÿ8÷Î»—ù1J$4da4e847-3978-438f-91f5-ac40d569216b
