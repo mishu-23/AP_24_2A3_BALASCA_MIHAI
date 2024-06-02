@@ -9,18 +9,12 @@ import java.net.Socket;
 public class ClientThread extends Thread {
     private final Socket clientSocket;
     private final GameServer server;
-    private final int clientId;
     private PrintWriter out;
 
 
-    public ClientThread(Socket socket, GameServer server, int clientId) {
+    public ClientThread(Socket socket, GameServer   server) {
         this.clientSocket = socket;
         this.server = server;
-        this.clientId = clientId;
-    }
-
-    public int getClientId() {
-        return clientId;
     }
 
     @Override
@@ -35,12 +29,12 @@ public class ClientThread extends Thread {
                     out.println("Server stopped");
                     server.stop();
                     break;
-                } else if (request.equalsIgnoreCase("start game")) {
-                    server.broadcastMessage("game started");
-                } else if (request.equalsIgnoreCase("clients")) {
-                    out.println("Number of connected clients: " + server.getClientCount());
+                } else if (request.equalsIgnoreCase("create game")){
+                    Table table = new Table();
+                    //pune fiecare player sa isi puna navele
                 } else {
                     out.println("Server received the request: " + request);
+
                 }
             }
         } catch (IOException e) {
