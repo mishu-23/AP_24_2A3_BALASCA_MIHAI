@@ -1,15 +1,15 @@
 
 
-java:S1192"GDefine a constant instead of duplicating this literal ".class" 5 times.(ı˜¢¯øÿÿÿÿ8´ˆÆı1J$f993ba5c-a198-4007-b105-930e19832a78
+java:S1192"GDefine a constant instead of duplicating this literal ".class" 5 times.(ı˜¢¯øÿÿÿÿ8³¤çı1J$ba542010-e2d8-4aaa-b0f1-d39200343045
 ]
-java:S1220""Move this file to a named package.8„´ˆÆı1J$1983ef22-053f-4723-acd4-76f90415503e
-m	java:S106"+Replace this use of System.out by a logger.(§†á½8ÜµˆÆı1J$2138b09a-969e-4660-8f7f-6b58be72b149
+java:S1220""Move this file to a named package.8¢³¤çı1J$206db7a8-5802-4611-9475-8ea4bf568ce7
+m	java:S106"+Replace this use of System.out by a logger.(§†á½8¼¶¤çı1J$50ab3bd7-0540-411a-858d-5f566441528c
 š
-java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥øîÿÿÿÿÿ8ïµˆÆı1J$6ff87a2d-3a77-41a4-a4f9-b612c1eaa08d
-m	java:S106N"+Replace this use of System.out by a logger.(–¿ÈÄ8ñµˆÆı1J$c60f0bb7-dc57-4b75-92ed-4e506080f705
-m	java:S106P"+Replace this use of System.out by a logger.(“€–Æ8òµˆÆı1J$67f4b3f9-c1b0-437b-90d6-725707dcc17a
-r	java:S106_"+Replace this use of System.err by a logger.(ĞÔŞÑøÿÿÿÿ8öµˆÆı1J$7d96217b-e0ab-4ff3-b99a-f85accaa6e9d
-r	java:S106f"+Replace this use of System.out by a logger.(»¡óŒşÿÿÿÿ8÷µˆÆı1J$4a91abd2-fb4e-42fc-b394-74b7d9f0dcc9
-r	java:S106g"+Replace this use of System.out by a logger.(×ÃŠüÿÿÿÿ8÷µˆÆı1J$aa2c1f3b-5e34-4a6c-906c-d1c83a1af72f
-r	java:S106h"+Replace this use of System.out by a logger.(æòöçûÿÿÿÿ8øµˆÆı1J$9bfc9152-fec4-415e-a5a9-054e2696dccd
-r	java:S106i"+Replace this use of System.out by a logger.(ê–•œıÿÿÿÿ8ùµˆÆı1J$bcee0365-b422-4146-a4dc-4c6325410c91
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥øîÿÿÿÿÿ8Ó¶¤çı1J$702a6613-09a1-4663-8b4f-b2e09e8d8aac
+m	java:S106N"+Replace this use of System.out by a logger.(–¿ÈÄ8Õ¶¤çı1J$3e9cf80c-cc54-420f-a883-c589a54a90fb
+m	java:S106P"+Replace this use of System.out by a logger.(“€–Æ8×¶¤çı1J$ac87ad73-1ae7-4320-9c8d-4fd235e9f276
+r	java:S106_"+Replace this use of System.err by a logger.(ĞÔŞÑøÿÿÿÿ8Ş¶¤çı1J$cb6e6f84-a8b8-497f-94a7-aeeea890aeaa
+r	java:S106f"+Replace this use of System.out by a logger.(»¡óŒşÿÿÿÿ8ß¶¤çı1J$d6daff2e-8308-4be3-8a4f-4bfcf034d31b
+r	java:S106g"+Replace this use of System.out by a logger.(×ÃŠüÿÿÿÿ8ß¶¤çı1J$66af6926-1009-46e9-b238-77310aee919a
+r	java:S106h"+Replace this use of System.out by a logger.(æòöçûÿÿÿÿ8à¶¤çı1J$9aa964c7-6238-4d2a-81dc-d246e3ff6e18
+r	java:S106i"+Replace this use of System.out by a logger.(ê–•œıÿÿÿÿ8á¶¤çı1J$c07e17ad-db1c-481b-8545-bbb8b5e75afe

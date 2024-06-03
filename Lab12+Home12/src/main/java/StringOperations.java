@@ -14,7 +14,7 @@ public class StringOperations {
     @Test
     public void testConcatenateFailure() {
         String result = concatenate("Hello", "World");
-        assert result.equals("Hello World") : "Concatenate failure test failed";  // This will fail
+        assert result.equals("Hello World") : "Concatenate failure test failed";  // Tgis will fail
     }
 
     public String concatenate(String a, String b) {
